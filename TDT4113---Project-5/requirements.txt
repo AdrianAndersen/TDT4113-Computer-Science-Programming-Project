@@ -1,0 +1,8 @@
+
+# Code formatting and quality
+pylint==2.7.2
+isort==5.7.0
+black==20.8b1
+
+# Required for the project
+pynput==1.7.3

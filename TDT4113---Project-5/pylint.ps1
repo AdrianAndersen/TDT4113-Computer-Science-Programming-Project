@@ -1,0 +1,1 @@
+pylint (ls -Exclude "GPIO*" -Filter "*.py" *)
